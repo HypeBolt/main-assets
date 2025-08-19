@@ -1,1 +1,5 @@
-empty for now.
+* {
+  color: white;
+  background-color: black;
+  font-family: "Inter", sans-serif;
+}
