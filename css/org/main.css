@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+main {
+    margin-top: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00a9ff;
+}
+
+a:active {
+    color: #ff5600;
+}
+
+mobile {
+    display:none;
+}
+
+@media (max-width: 768px) {
+    desktop {
+        display: none;
+    }
+    
+    mobile {
+        display: block;
+    }
+}

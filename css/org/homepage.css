@@ -1,0 +1,39 @@
+.introduction {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left:5%;
+    padding-right:5%;
+    border-radius: 20px;
+    background-color: #e5e5e5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.introduction p {
+    font-size: 18px;
+}
+
+.introduction h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.studio {
+    margin-top: 20px;
+    background-color: #e5e5e5;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+}
+
+.studio h2 {
+    font-size: 24px;
+}
+
+.studio h3 {
+    font-size: 20px;
+}
+
+.studio h4 {
+    font-size: 18px;
+}

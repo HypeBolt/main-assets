@@ -1,0 +1,7 @@
+.errorbasic {
+    padding: 20px;
+}
+
+.errorbasic h1, p, h3 {
+    padding-bottom: 10px;
+}

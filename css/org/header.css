@@ -1,0 +1,64 @@
+header {
+    height: 300px;
+}
+
+.logo-nav {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e5e5e5;
+}
+
+.head-info {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: white;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.head-logo img {
+    height: 35px;
+    margin: 15px;
+}
+
+.head-title {
+    width: 50%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.head-title h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+
+.top-nav ul {
+    display: flex;
+}
+
+.top-nav ul li {
+    margin-right: 15px;
+    list-style: none;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: #242424;
+}
+
+.top-nav a:hover {
+    opacity: 0.5;
+}
+
+.top-nav a:active {
+    opacity: 0.3;
+}
